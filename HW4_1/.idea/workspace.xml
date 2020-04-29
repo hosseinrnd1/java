@@ -46,7 +46,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="515" />
     <option name="width" value="866" />
     <option name="height" value="688" />
@@ -56,23 +56,10 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="HW4_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HW4_1" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -116,14 +103,15 @@
       <updated>1588194310099</updated>
       <workItem from="1588194315461" duration="720000" />
       <workItem from="1588195109538" duration="20000" />
+      <workItem from="1588195885866" duration="50000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="740000" />
+    <option name="totallyTimeSpent" value="790000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="515" y="0" width="866" height="688" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.40942928" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
